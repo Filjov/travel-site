@@ -1,4 +1,5 @@
 .row {
+
   @mixin clearfix;
 
   &--gutters {
@@ -33,10 +34,10 @@
       width: 66.66%;
     }
 
-    &__meidum-8--smaller {
+    &__medium-8--smaller {
       width: 63%;
     }
-
   }
+
 
 }
