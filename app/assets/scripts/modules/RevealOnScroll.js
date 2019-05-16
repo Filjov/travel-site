@@ -13,7 +13,7 @@ class RevealOnScroll {
     this.itemsToReveal.addClass("reveal-item");
   }
 
-  createWaypoints () {
+  createWaypoints() {
     var that = this;
     this.itemsToReveal.each(function() {
       var currentItem = this;
