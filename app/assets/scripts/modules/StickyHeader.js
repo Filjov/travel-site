@@ -58,7 +58,6 @@ class StickyHeader {
         },
         offset: "-40%"
       });
-
     });
   }
 }
